@@ -9,7 +9,7 @@
     "css-loader": "^2.1.1",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery.easing": "^1.4.1",
     "magnific-popup": "^1.1.0",
     "sass-loader": "^7.1.0",
