@@ -6,15 +6,15 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.8.2",
     "bootstrap": "^4.3.1",
-    "css-loader": "^2.1.1",
+    "css-loader": "^6.7.3",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "jquery": "^3.4.1",
     "jquery.easing": "^1.4.1",
     "magnific-popup": "^1.1.0",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^13.2.0",
     "serve-favicon": "^2.5.0",
-    "webpack": "^4.0.0"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.0"
